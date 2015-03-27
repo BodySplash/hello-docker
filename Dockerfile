@@ -1,3 +1,3 @@
 FROM dgageot/busybox-ubuntu
 
-CMD echo "Hello EPSI!!"
+CMD echo "Hello World!"
